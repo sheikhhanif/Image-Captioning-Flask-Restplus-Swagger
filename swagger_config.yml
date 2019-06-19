@@ -1,0 +1,16 @@
+summary: "Show and Tell Inference"
+description: "This is a simple API which returns image caption"
+
+produces:
+- "application/json"
+
+consumes:
+    - multipart/form-data  # and/or application/x-www-form-urlencoded
+parameters:
+  - name: file
+    in: formData   
+    description: The uploaded file data
+    required: true
+    type: file     
+    paramType: body
+    dataType: file
