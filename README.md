@@ -14,14 +14,14 @@ The flask web-app will appear at this location: http://127.0.0.1:5000/
 You may upload an image and get caption as it's shown below
 ### Web UI with flask and REST
 
-![demo-web-ui](demo/web-ui.png)
+![demo-web-ui](demo/web-ui.PNG)
 
 ### Swagger UI
 You can test the API by using Swagger UI. Swagger is located at this location: http://hanif-img-caption.datamela.com/swagger/
 
 A demo of swagger UI has attached below
 
-![demo-swagger-ui](demo/swagger-ui.png)
+![demo-swagger-ui](demo/swagger-ui.PNG)
 
 ### API defination
 You may access 'json' formatted swagger api specification from this link: http://hanif-img-caption.datamela.com/apispec_1.json
