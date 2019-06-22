@@ -25,3 +25,8 @@ A demo of swagger UI has attached below
 
 ### API defination
 You may access 'json' formatted swagger api specification from this link: http://hanif-img-caption.datamela.com/apispec_1.json
+
+
+### References
+- https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+- https://swagger.io/
