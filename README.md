@@ -24,7 +24,7 @@ A demo of swagger UI has attached below
 ![demo-swagger-ui](demo/swagger-ui.PNG)
 
 ### API defination
-You may access 'json' formatted swagger api specification from this link: http://hanif-img-caption.datamela.com/apispec_1.json
+You may access 'json' formatted swagger api specification from this link: http://127.0.0.1:5000/apispec_1.json
 
 
 ### References
